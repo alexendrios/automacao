@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="asserts"
+    errors="1" failures="0" hostname="" id="" package="asserts" skipped="0"
+    tests="1" time="0.5840" timestamp="">
+  
+    <testcase name="Expects Visible" classname="asserts" time="0.5840" assertions="1">
+
+    
+    <error message="browser.url(...).expect.element(...).to.be.visible is not a function" type="error"><![CDATA[
+    TypeError: browser.url(...).expect.element(...).to.be.visible is not a function
+    at Object.Expects Visible (C:\back\org1.1.2\automocao\automacao_javascript\basic\tests\asserts.js:20:56)
+    at Context.call (C:\back\org1.1.2\automocao\automacao_javascript\basic\node_modules\nightwatch\lib\testsuite\context.js:379:35)
+    at TestCase.run (C:\back\org1.1.2\automocao\automacao_javascript\basic\node_modules\nightwatch\lib\testsuite\testcase.js:53:31)
+    at Runnable.__runFn (C:\back\org1.1.2\automocao\automacao_javascript\basic\node_modules\nightwatch\lib\testsuite\index.js:376:80)
+    at Runnable.run (C:\back\org1.1.2\automocao\automacao_javascript\basic\node_modules\nightwatch\lib\testsuite\runnable.js:123:21)
+    at TestSuite.createRunnable (C:\back\org1.1.2\automocao\automacao_javascript\basic\node_modules\nightwatch\lib\testsuite\index.js:443:33)
+    at TestSuite.handleRunnable (C:\back\org1.1.2\automocao\automacao_javascript\basic\node_modules\nightwatch\lib\testsuite\index.js:448:18)
+    at C:\back\org1.1.2\automocao\automacao_javascript\basic\node_modules\nightwatch\lib\testsuite\index.js:376:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async DefaultRunner.runTestSuite (C:\back\org1.1.2\automocao\automacao_javascript\basic\node_modules\nightwatch\lib\runner\test-runners\default.js:68:7)
+    ]]></error>
+    
+    </testcase>
+  
+
+  
+    <system-err>
+        TypeError: browser.url(...).expect.element(...).to.be.visible is not a function
+   - writing an ES6 async test case? - keep in mind that commands return a Promise; 
+   - writing unit tests? - make sure to specify &#34;unit_tests_mode=true&#34; in your config.
+       at Object.Expects Visible (C:\back\org1.1.2\automocao\automacao_javascript\basic\tests\asserts.js:20:56)
+       at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    </system-err>
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

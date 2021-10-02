@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="wait-for-element"
+    errors="0" failures="0" hostname="" id="" package="wait-for-element" skipped="0"
+    tests="1" time="16.80" timestamp="">
+  
+    <testcase name="Aguardando Elemento Visível" classname="wait-for-element" time="16.80" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

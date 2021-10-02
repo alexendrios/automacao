@@ -1,0 +1,19 @@
+---
+# Qunado utilizar o allure, para visualizar o relatório localmente
+# execute dentro da pasta logs: "allure serve allure_report"
+
+# bundle exec parallel_cucumber features/specs/criar_caso_miner -o "-t @tag_especifica"
+
+
+#default: -p allure -p html_report -p chrome
+default: -p allure -p firefox
+
+
+ci: -p json_report -p firefox
+allure: --format progress --format AllureCucumber::Formatter --out=logs/allure_report
+
+#html_report: --format html --out feature.html
+json_report: --format html --out feature.json
+chrome: BROWSERS=chrome
+firefox: BROWSERS=firefox
+

@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<ns2:test-suite xmlns="" xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1574435704310" stop="1574435720935">
+  <name>Realizar Cadastrouando</name>
+  <title>Realizar Cadastrouando</title>
+  <test-cases>
+    <test-case start="1574435704314" stop="1574435720915" status="passed">
+      <name>Preenchendo os dados e se Cadastrando na Aplica&#xE7;&#xE3;o</name>
+      <title>Preenchendo os dados e se Cadastrando na Aplica&#xE7;&#xE3;o</title>
+      <steps>
+        <step start="1574435709823" stop="1574435709823" status="passed">
+          <name>Dado que eu visite o webSite "http://automationpractice.com/index.php"</name>
+          <title>Dado que eu visite o webSite "http://automationpractice.com/index.php"</title>
+          <attachments/>
+        </step>
+        <step start="1574435709823" stop="1574435709825" status="passed">
+          <name>Quando no menu escolho "logar",</name>
+          <title>Quando no menu escolho "logar",</title>
+          <attachments/>
+        </step>
+        <step start="1574435709825" stop="1574435709827" status="passed">
+          <name>E ao inserir o e-mail 'ccmn@hotmail.com' clico no bot&#xE3;o Create en account,</name>
+          <title>E ao inserir o e-mail 'ccmn@hotmail.com' clico no bot&#xE3;o Create en account,</title>
+          <attachments/>
+        </step>
+        <step start="1574435709827" stop="1574435709830" status="passed">
+          <name>E escolho a forma de Tratamento "Senhora", insiro o primeiro nome "Cacau", insiro o sobrenome "Coutto",</name>
+          <title>E escolho a forma de Tratamento "Senhora", insiro o primeiro nome "Cacau", insiro o sobrenome "Coutto",</title>
+          <attachments/>
+        </step>
+        <step start="1574435709830" stop="1574435709832" status="passed">
+          <name>E escolho uma senha "0009fr", informo a data de nascimento '30/01/1980', infomo que quero receber not&#xED;cias "SIM",</name>
+          <title>E escolho uma senha "0009fr", informo a data de nascimento '30/01/1980', infomo que quero receber not&#xED;cias "SIM",</title>
+          <attachments/>
+        </step>
+        <step start="1574435709832" stop="1574435709835" status="passed">
+          <name>E informo que gostaria de receber ofertas 'sim', informo a companhia "Cia.test", o endere&#xE7;o "3888 State St",</name>
+          <title>E informo que gostaria de receber ofertas 'sim', informo a companhia "Cia.test", o endere&#xE7;o "3888 State St",</title>
+          <attachments/>
+        </step>
+        <step start="1574435709835" stop="1574435709837" status="passed">
+          <name>E informo a cidade '100 Palms', o estado 'California', c&#xF3;digo postal '92274', pa&#xED;s 'Estados Unidos',</name>
+          <title>E informo a cidade '100 Palms', o estado 'California', c&#xF3;digo postal '92274', pa&#xED;s 'Estados Unidos',</title>
+          <attachments/>
+        </step>
+        <step start="1574435709837" stop="1574435709839" status="passed">
+          <name>E informo anota&#xE7;&#xF5;es gerais "Testando a aplica&#xE7;&#xE3;o", telefone '151022235555', celular '15109990000',</name>
+          <title>E informo anota&#xE7;&#xF5;es gerais "Testando a aplica&#xE7;&#xE3;o", telefone '151022235555', celular '15109990000',</title>
+          <attachments/>
+        </step>
+        <step start="1574435709840" stop="1574435720172" status="passed">
+          <name>E infomo o endere&#xE7;o de entrega 'Vila dos sonhos' e clico no bot&#xE3;o cadastrar</name>
+          <title>E infomo o endere&#xE7;o de entrega 'Vila dos sonhos' e clico no bot&#xE3;o cadastrar</title>
+          <attachments/>
+        </step>
+        <step start="1574435720172" stop="1574435720343" status="passed">
+          <name>Ent&#xE3;o eu visualizo a seguinte mensagem 'MY ACCOUNT'</name>
+          <title>Ent&#xE3;o eu visualizo a seguinte mensagem 'MY ACCOUNT'</title>
+          <attachments/>
+        </step>
+      </steps>
+      <attachments>
+        <attachment source="9645a3771f1cf742f84aca91b6e6fd3e7716489cf555c0771fc11e94b172f4a4-attachment.png" title="Clique aqui para ver o print da tela" size="96760" type="image/png"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20118060"/>
+        <label name="host" value="DESKTOP-O495AR8"/>
+        <label name="feature" value="Realizar Cadastrouando"/>
+        <label name="story" value="Preenchendo os dados e se Cadastrando na Aplica&#xE7;&#xE3;o"/>
+      </labels>
+      <parameters/>
+    </test-case>
+  </test-cases>
+  <labels>
+    <label name="severity" value="normal"/>
+    <label name="thread" value="20118060"/>
+    <label name="host" value="DESKTOP-O495AR8"/>
+  </labels>
+</ns2:test-suite>

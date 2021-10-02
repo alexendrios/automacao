@@ -1,0 +1,2 @@
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+>alexandre santos      console             1  Ativo       nenhum   13/03/2020 18:07

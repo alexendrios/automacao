@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="rspec" tests="24" skipped="0" failures="0" errors="0" time="0.027494" timestamp="2020-03-22T00:53:22-03:00" hostname="DESKTOP-O495AR8">
+<properties>
+<property name="seed" value="49862"/>
+</properties>
+<testcase classname="spec.001_exemplos_spec" name="Suite rspec Soma de Valores" file="./spec/001_exemplos_spec.rb" time="0.002574"></testcase>
+<testcase classname="spec.002_vingadores_spec" name="Vingadores Deve adicionar um Vinggador" file="./spec/002_vingadores_spec.rb" time="0.000143"></testcase>
+<testcase classname="spec.003_validadores_spec" name="Vingadores Deve adicionar um Vinggador" file="./spec/003_validadores_spec.rb" time="0.000090"></testcase>
+<testcase classname="spec.003_validadores_spec" name="Vingadores Deve adicionar uma Lista de Vingadores" file="./spec/003_validadores_spec.rb" time="0.003022"></testcase>
+<testcase classname="spec.003_validadores_spec" name="Vingadores Deve adicionar uma Lista de Vingadores" file="./spec/003_validadores_spec.rb" time="0.003760"></testcase>
+<testcase classname="spec.003_validadores_spec" name="Vingadores Deve adicionar uma Lista de Vingadores" file="./spec/003_validadores_spec.rb" time="0.003388"></testcase>
+<testcase classname="spec.003_validadores_spec" name="Vingadores Thor deve ser o primeiro da lista" file="./spec/003_validadores_spec.rb" time="0.002759"></testcase>
+<testcase classname="spec.003_validadores_spec" name="Vingadores Hulk deve ser o ultimo da lista" file="./spec/003_validadores_spec.rb" time="0.000101"></testcase>
+<testcase classname="spec.003_validadores_spec" name="Vingadores Deve conter o sobrenome" file="./spec/003_validadores_spec.rb" time="0.002816"></testcase>
+<testcase classname="spec.003_validadores_spec" name="Vingadores Não contém o sobrenome" file="./spec/003_validadores_spec.rb" time="0.000094"></testcase>
+<testcase classname="spec.bank.saque_cc_spec" name="Conta Corrente Saque Quando o Valor é Positivo então atualiza Saldo" file="./spec/bank/saque_cc_spec.rb" time="0.000127"></testcase>
+<testcase classname="spec.bank.saque_cc_spec" name="Conta Corrente Saque Quando o saldo é zero então exibe mensagem" file="./spec/bank/saque_cc_spec.rb" time="0.000061"></testcase>
+<testcase classname="spec.bank.saque_cc_spec" name="Conta Corrente Saque Quando o saldo é zero e o saldo final com zeros" file="./spec/bank/saque_cc_spec.rb" time="0.000054"></testcase>
+<testcase classname="spec.bank.saque_cc_spec" name="Conta Corrente Saque Saldo é insuficiente então exibe mensagem" file="./spec/bank/saque_cc_spec.rb" time="0.000056"></testcase>
+<testcase classname="spec.bank.saque_cc_spec" name="Conta Corrente Saque Saldo é insuficiente e o saldo permanece" file="./spec/bank/saque_cc_spec.rb" time="0.000050"></testcase>
+<testcase classname="spec.bank.saque_cc_spec" name="Conta Corrente Saque Limite por saque então exibe mensagem" file="./spec/bank/saque_cc_spec.rb" time="0.000052"></testcase>
+<testcase classname="spec.bank.saque_cc_spec" name="Conta Corrente Saque Limite por saque e o saldo permanece" file="./spec/bank/saque_cc_spec.rb" time="0.000048"></testcase>
+<testcase classname="spec.bank.saque_cp_spec" name="Conta Poupança Saque Quando o Valor é Positivo então atualiza Saldo" file="./spec/bank/saque_cp_spec.rb" time="0.000083"></testcase>
+<testcase classname="spec.bank.saque_cp_spec" name="Conta Poupança Saque Quando o saldo é zero então exibe mensagem" file="./spec/bank/saque_cp_spec.rb" time="0.000055"></testcase>
+<testcase classname="spec.bank.saque_cp_spec" name="Conta Poupança Saque Quando o saldo é zero e o saldo final com zeros" file="./spec/bank/saque_cp_spec.rb" time="0.000065"></testcase>
+<testcase classname="spec.bank.saque_cp_spec" name="Conta Poupança Saque Saldo é insuficiente então exibe mensagem" file="./spec/bank/saque_cp_spec.rb" time="0.000051"></testcase>
+<testcase classname="spec.bank.saque_cp_spec" name="Conta Poupança Saque Saldo é insuficiente e o saldo permanece" file="./spec/bank/saque_cp_spec.rb" time="0.000048"></testcase>
+<testcase classname="spec.bank.saque_cp_spec" name="Conta Poupança Saque Limite por saque então exibe mensagem" file="./spec/bank/saque_cp_spec.rb" time="0.000051"></testcase>
+<testcase classname="spec.bank.saque_cp_spec" name="Conta Poupança Saque Limite por saque e o saldo permanece" file="./spec/bank/saque_cp_spec.rb" time="0.000064"></testcase>
+</testsuite>

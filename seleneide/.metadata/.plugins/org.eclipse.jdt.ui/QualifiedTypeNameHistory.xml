@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.junit.Test"/>
+<fullyQualifiedTypeName name="com.codeborne.selenide.WebDriverRunner"/>
+<fullyQualifiedTypeName name="org.checkerframework.common.value.qual.StaticallyExecutable"/>
+<fullyQualifiedTypeName name="com.codeborne.selenide.Selenide"/>
+<fullyQualifiedTypeName name="com.codeborne.selenide.Selectors"/>
+<fullyQualifiedTypeName name="javax.sound.midi.Soundbank"/>
+<fullyQualifiedTypeName name="com.codeborne.selenide.Condition"/>
+<fullyQualifiedTypeName name="org.junit.Assert"/>
+</qualifiedTypeNameHistroy>

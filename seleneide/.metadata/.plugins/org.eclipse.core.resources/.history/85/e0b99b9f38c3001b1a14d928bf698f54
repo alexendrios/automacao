@@ -1,0 +1,14 @@
+package test.arquitetura;
+
+import org.junit.Test;
+
+public class Exemplo {
+	
+	@Test
+	public void start() {
+		
+		
+		
+	}
+
+}

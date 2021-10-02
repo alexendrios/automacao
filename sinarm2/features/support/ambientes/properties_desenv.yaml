@@ -1,0 +1,4 @@
+url_default: 'http://projetosdesenv.dpf.gov.br/siseg/siseg.php'
+IP: '10.2.96.36:8480'
+user: "solange.sbm"
+password: 'Berto@10'

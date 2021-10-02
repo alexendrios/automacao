@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<ns2:test-suite xmlns="" xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1576245183390" stop="1576245186851">
+  <name>Realizar login SINARM</name>
+  <title>Realizar login SINARM</title>
+  <test-cases>
+    <test-case start="1576245183393" stop="1576245186838" status="passed">
+      <name>Logar com sucesso no sistema SINARM</name>
+      <title>Logar com sucesso no sistema SINARM</title>
+      <steps>
+        <step start="1576245184378" stop="1576245184378" status="passed">
+          <name>Dado que estou na pagina de login do SINARM</name>
+          <title>Dado que estou na pagina de login do SINARM</title>
+          <attachments/>
+        </step>
+        <step start="1576245184378" stop="1576245184897" status="passed">
+          <name>Quando eu informo usuario "toledo.rct" e senha "ctidpf"</name>
+          <title>Quando eu informo usuario "toledo.rct" e senha "ctidpf"</title>
+          <attachments/>
+        </step>
+        <step start="1576245184897" stop="1576245186331" status="passed">
+          <name>Entao sou autenticado com "RICARDO CORTEZ TOLEDO"</name>
+          <title>Entao sou autenticado com "RICARDO CORTEZ TOLEDO"</title>
+          <attachments/>
+        </step>
+      </steps>
+      <attachments>
+        <attachment source="f11b15c7e08556e9428e716bb3d1c625cc1c44e8df128be479ce4b859fbfa616-attachment.png" title="Clique aqui para ver o print da tela" size="102525" type="image/png"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="22575660"/>
+        <label name="host" value="DESKTOP-O495AR8"/>
+        <label name="feature" value="Realizar login SINARM"/>
+        <label name="story" value="Logar com sucesso no sistema SINARM"/>
+      </labels>
+      <parameters/>
+    </test-case>
+  </test-cases>
+  <labels>
+    <label name="severity" value="normal"/>
+    <label name="thread" value="22575660"/>
+    <label name="host" value="DESKTOP-O495AR8"/>
+  </labels>
+</ns2:test-suite>

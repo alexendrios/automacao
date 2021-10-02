@@ -1,0 +1,5099 @@
+Execução Extração dos Dados Iniciado:
+* 25/7/2020 - 16:50:48
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Aplicação Indisponível
+WEBSCRAP Abortado
+
+Execução Extração dos Dados Iniciado:
+* 4/8/2020 - 10:5:43
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+* Lendo o arquivo da Lista de Projetos
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'vip-cartaopf' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+Execução Extração dos Dados Iniciado:
+* 4/8/2020 - 10:9:4
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Aplicação Indisponível
+WEBSCRAP Abortado
+
+Execução Extração dos Dados Iniciado:
+* 5/8/2020 - 7:33:35
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+* Lendo o arquivo da Lista de Projetos
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'vip-cartaopf' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+Execução Extração dos Dados Iniciado:
+* 5/8/2020 - 7:42:33
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+* Lendo o arquivo da Lista de Projetos
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'vip-cartaopf' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:47:23
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'vip-cartaopf-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:47:42
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'spd-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:48:18
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'spd-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:52:11
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qiib-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:52:17
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qmail' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:52:52
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qlimite' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:53:9
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qonline' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:53:30
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qchave' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:53:46
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qrobo-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:55:29
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-feedback' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:55:47
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qiib' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:55:53
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qcarga' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:56:0
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qsql' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:56:26
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-utils' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:56:57
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qj' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:57:21
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qtoken' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:57:38
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qwizard' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:57:54
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qmining' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:58:13
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-qdb2' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 7:59:1
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ath-qmassa-portal' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:0:18
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rcp-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:0:39
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rcp-plt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:1:34
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rcp-plt-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:1:42
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rcp-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:8:51
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rcp-vantagens-cadastro-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:10:24
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-cfg' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:10:59
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-log-conteineres-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:12:36
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-testpp-gamapp' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:12:52
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-servicos-iib' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:13:28
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-config-ferramenta-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:13:38
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi_comparacao_facial' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:14:52
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:15:2
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-config-ferramenta-facial' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:15:13
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi_comparar' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:15:48
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-consulta-pessoa-nao-apta' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:16:24
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-ms-bd-pss-inapta' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:16:59
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-param-conteiner-facial' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:17:13
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:18:39
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-gestao-facial-funcionario' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:20:0
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-pssapta' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:20:35
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-incluir-lote-lista-negativa' em Análise
+....Projeto não existe no Sonar
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:22:18
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-gulp-flowtype' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:22:24
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-norminha-gamapp' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:25:23
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-ui-web' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:35:59
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+Erro ao ao realizar a  Formalização do Registro
+....
+WEBSCRAP Abortado
+undefined method `gsub' for nil:NilClass
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-components' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:46:12
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 8:54:27
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-info-carteiras' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:8:45
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-painel-pj-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:8:59
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-encarteiramento-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:9:29
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-movimentacao-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:10:12
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-perfil-parametrizacao-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:10:26
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-carteira-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:12:25
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-emcampo-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:14:21
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-perfil-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:27:34
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-movimentacao' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:28:17
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-painel-pj' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:28:24
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-ui-web' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:34:15
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-emcampo' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:36:4
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-perfil-parametrizacao' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:36:18
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-core' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:43:30
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-emcampo-gamapp' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:52:16
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-info-carteiras-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 9:54:7
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-perfil-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 5/8/2020 - 10:27:4
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'ibi-incluir-lote-lista-negativa' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 10:27:28
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 5/8/2020 - 10:35:48
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+Erro ao ao realizar a  Formalização do Registro
+....
+WEBSCRAP Abortado
+undefined method `gsub' for nil:NilClass
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-info-carteiras-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 10:43:20
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-perfil-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 10:49:50
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rel-encarteiramento' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 10:57:44
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'tao-ascensao-core' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 5/8/2020 - 11:2:30
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Aplicação Indisponível
+WEBSCRAP Abortado
+
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 5/8/2020 - 11:4:50
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+Erro ao ao realizar a  Formalização do Registro
+....
+WEBSCRAP Abortado
+undefined method `gsub' for nil:NilClass
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'tao-ascensao-core' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 11:21:39
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'tao-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 11:25:36
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'tao-ascensao-ui-web' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 11:27:9
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'tao-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+Elementos não visíveis 
+Possível instabilidade da Aplicação
+....
+WEBSCRAP Abortado
+Net::ReadTimeout with #<TCPSocket:(closed)>
+
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 5/8/2020 - 12:4:50
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 5/8/2020 - 14:5:14
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+Erro ao ao realizar a  Formalização do Registro
+....
+WEBSCRAP Abortado
+undefined method `gsub' for nil:NilClass
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'tao-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 14:36:42
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'mci-telefone-util' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 14:37:17
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'mci-bens-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 14:37:34
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'mci-poderes-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 14:37:43
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'mci-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 14:38:23
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'mci-atendimento-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 14:39:1
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'mci-core' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 14:49:51
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'mci-poderes-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 14:50:17
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'mci-ui-web' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 15:0:8
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'mci-bens-api' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 15:0:15
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'mci-atendimento-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 15:0:51
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'mkt-doac-ext-core' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 15:6:46
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'mkt-doac-int-ui-web' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 5/8/2020 - 15:14:38
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 5/8/2020 - 15:19:14
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 5/8/2020 - 15:25:41
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 5/8/2020 - 16:6:9
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 6/8/2020 - 7:36:28
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 6/8/2020 - 7:52:55
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+Erro ao ao realizar a  Formalização do Registro
+....
+WEBSCRAP Abortado
+undefined method `gsub' for nil:NilClass
+
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 6/8/2020 - 8:38:0
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+Erro ao ao realizar a  Formalização do Registro
+....
+WEBSCRAP Abortado
+undefined method `gsub' for nil:NilClass
+
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 6/8/2020 - 9:3:7
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+Erro ao ao realizar a  Formalização do Registro
+....
+WEBSCRAP Abortado
+undefined method `gsub' for nil:NilClass
+
+* Lendo o arquivo da Lista de Projetos
+* Lendo o arquivo da Lista de Projetos
+Execução Extração dos Dados Iniciado:
+* 6/8/2020 - 9:11:12
+
+                                                                                                                                                     
+                                                                                                                                                      
+                    10                1                                                                                                               
+                 10000001           1000                                                                                                              
+               100000000000      1000001                                                                                                              
+            100000001000000001  00000001                                                                                                              
+          00000001     100000000  101                                                                                                                 
+       1000000001         00000000                                                                                                                    
+    100000000000000    101  1000000001                                                                                                                
+   0000000000000001 10000001  1000000001                                                                                                              
+    100000000001  100000001  100000001         000000   100   100  100  10000  100001    1000001   00001     000000 100000   100    000001 001 00     
+       100001   00000001  100000001            000 000  0000  1000  00 000110 00011001   100 1001 0011000    001 001100 000  0000   001    001 00     
+             10000001   10000001               0000001 001101 10000100 00     00    00   100   00101   001   000000 1001001 101101   10001 001 00     
+           00000001  10000001                  001 100 000000 101 0000 000110 10011001   100  001 0011100    001 001100 00  000000      00 001 00111  
+       100000001   00000001  100001            100000 101  101 01  100  10000  10001     100000    10001     000001 101 101101  100 10000  101 00000  
+    1000000001  10000001   00000000001                                                                                                                
+   000000001   0000001  1000000000000001                                                                                                              
+    1000000001  101    000000000000001                                                                                                                
+       100000000         1000000001                                             GEINT - WEBSCRAP - SONAR                                                                                               
+     11   1000000001    10000001                                                                                                                      
+   0000001  100000000000000001                                                                         vesão 1.0                                               
+  1000001      100000000001                                                                                                                           
+  1000            000000                                                                                                                              
+   1                11                                                                                                                                
+                                                                                                                                                                
+
+
+....
+Logar na aplicação
+....
+Usuário: c1299459 - Logado
+
+
+....
+Buscando projeto para a Análise
+....
+Projeto: 'rpj-pvt-estatico' em Análise
+....
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+Indicador a ser Analisado
+Coverage
+* Dados em processo de Extração
+
+- Formalizando Dados
+- Limpeza de Dados
+- Formalizando Dados
+- Limpeza de Meses
+* Contagem de Build
+* Extração Finalizada
+
+* Análise do Registro
+- Limpeza dos Dados
+
+....
+Analisando a Versão do Build
+....
+- Adicionando a Versão do Build nos Registros
+
+* Análise do Registro
+- Limpeza dos Dados
+- Refinamento dos Indicadores
+- Unificando Registros ****
+- Unificando Registros ****
+- Criação dos Registros
+* Análise dos Indicadores Finalizado
+* Formalização do Registro
+
+....
+Criação do Arquivo CSV....
+* Arquivo Criado com Sucesso!!
+....
+* Extração dos Dados Finalizado   *****
+* 6/8/2020 - 9:23:32
+* Lendo o arquivo da Lista de Projetos

@@ -1,0 +1,84 @@
+VIP;vip-cartaopf;Bruno Vieira
+VIP;vip-cartaopf-api;Bruno Vieira
+SPD;spd-api;Claudio Junior
+SPD;spd-estatico;Claudio Junior
+ATH;ath-qmassa-qiib-api;William Mendes
+ATH;ath-qmassa-qmail;William Mendes
+ATH;ath-qmassa-qlimite;William Mendes
+ATH;ath-qmassa-qonline;William Mendes
+ATH;ath-qmassa-qchave;William Mendes
+ATH;ath-qmassa-qrobo-api;William Mendes
+ATH;ath-qmassa-feedback;William Mendes
+ATH;ath-qmassa-qiib;William Mendes
+ATH;ath-qmassa-qcarga;William Mendes
+ATH;ath-qmassa-qsql;William Mendes
+ATH;ath-qmassa-utils;William Mendes
+ATH;ath-qmassa-qj;William Mendes
+ATH;ath-qmassa-qtoken;William Mendes
+ATH;ath-qmassa-qwizard;William Mendes
+ATH;ath-qmassa-qmining;William Mendes
+ATH;ath-qmassa-qdb2;William Mendes
+ATH;ath-qmassa-portal;William Mendes
+RCP;rcp-api;Kami
+RCP;rcp-plt-estatico;Kami
+RCP;rcp-plt-api;Kami
+RCP;rcp-estatico;Kami
+RCP;rcp-vantagens-cadastro-api;Kami
+IBI;ibi-cfg;Kami/Davi Ribeiro
+IBI;ibi-log-conteineres-estatico;Kami/Davi Ribeiro
+IBI;ibi-testpp-gamapp;Kami/Davi Ribeiro
+IBI;ibi-servicos-iib;Kami/Davi Ribeiro
+IBI;ibi-config-ferramenta-estatico;Kami/Davi Ribeiro
+IBI;ibi_comparacao_facial;Kami/Davi Ribeiro
+IBI;ibi-api;Kami/Davi Ribeiro
+IBI;ibi-config-ferramenta-facial;Kami/Davi Ribeiro
+IBI;ibi_comparar;Kami/Davi Ribeiro
+IBI;ibi-consulta-pessoa-nao-apta;Kami/Davi Ribeiro
+IBI;ibi-ms-bd-pss-inapta;Kami/Davi Ribeiro
+IBI;ibi-param-conteiner-facial;Kami/Davi Ribeiro
+IBI;ibi-estatico;Kami/Davi Ribeiro
+IBI;ibi-gestao-facial-funcionario;Kami/Davi Ribeiro
+IBI;ibi-pssapta;Kami/Davi Ribeiro
+IBI;ibi-incluir-lote-lista-negativa;Kami/Davi Ribeiro
+RPJ;rpj-pvt-api;Kelly
+RPJ;rpj-gulp-flowtype;Kelly
+RPJ;rpj-norminha-gamapp;Kelly
+RPJ;rpj-ui-web;Kelly
+RPJ;rpj-pvt-estatico;Kelly
+RPJ;rpj-components;Kelly
+RPJ;rpj-estatico;Kelly
+REL;rel-info-carteiras;Kelly/Davi Ribeiro/Amaraline
+REL;rel-painel-pj-api;Kelly/Davi Ribeiro/Amaraline
+REL;rel-encarteiramento-api;Kelly/Davi Ribeiro/Amaraline
+REL;rel-movimentacao-api;Kelly/Davi Ribeiro/Amaraline
+REL;rel-perfil-parametrizacao-api;Kelly/Davi Ribeiro/Amaraline
+REL;rel-carteira-api;Kelly/Davi Ribeiro/Amaraline
+REL;rel-emcampo-api;Kelly/Davi Ribeiro/Amaraline
+REL;rel-perfil-estatico;Kelly/Davi Ribeiro/Amaraline
+REL;rel-movimentacao;Kelly/Davi Ribeiro/Amaraline
+REL;rel-painel-pj;Kelly/Davi Ribeiro/Amaraline
+REL;rel-ui-web;Kelly/Davi Ribeiro/Amaraline
+REL;rel-emcampo;Kelly/Davi Ribeiro/Amaraline
+REL;rel-perfil-parametrizacao;Kelly/Davi Ribeiro/Amaraline
+REL;rel-core;Kelly/Davi Ribeiro/Amaraline
+REL;rel-emcampo-gamapp;Kelly/Davi Ribeiro/Amaraline
+REL;rel-emcampo-api;Kelly/Davi Ribeiro/Amaraline
+REL;rel-info-carteiras-api;Kelly/Davi Ribeiro/Amaraline
+REL;rel-perfil-api;Kelly/Davi Ribeiro/Amaraline
+REL;rel-encarteiramento;Kelly/Davi Ribeiro/Amaraline
+TAO;tao-ascensao-core;Kelly
+TAO;tao-api;Kelly
+TAO;tao-ascensao-ui-web;Kelly
+TAO;tao-estatico;Kelly
+MCI;mci-telefone-util;Davi Ribeiro/Amaraline
+MCI;mci-bens-estatico;Davi Ribeiro/Amaraline
+MCI;mci-poderes-api;Davi Ribeiro/Amaraline
+MCI;mci-api;Davi Ribeiro/Amaraline
+MCI;mci-atendimento-api;Davi Ribeiro/Amaraline
+MCI;mci-core;Davi Ribeiro/Amaraline
+MCI;mci-poderes-estatico;Davi Ribeiro/Amaraline
+MCI;mci-ui-web;Davi Ribeiro/Amaraline
+MCI;mci-bens-api;Davi Ribeiro/Amaraline
+MCI;mci-atendimento-estatico;Davi Ribeiro/Amaraline
+MKT;mkt-doac-ext-core;Edson Ramon
+MKT;mkt-doac-int-ui-web;Edson Ramon

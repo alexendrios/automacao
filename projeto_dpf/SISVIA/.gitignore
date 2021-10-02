@@ -1,0 +1,7 @@
+*.png
+*.json
+*.html
+*.txt
+/Gemfile.lock
+debug.log
+/logs/*

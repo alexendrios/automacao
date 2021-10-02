@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="asserts"
+    errors="0" failures="0" hostname="" id="" package="asserts" skipped="0"
+    tests="2" time="1.093" timestamp="">
+  
+    <testcase name="Asserts Visible" classname="asserts" time="0.7270" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Expects Visible" classname="asserts" time="0.3660" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

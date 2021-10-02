@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arrays</title>
+</head>
+<body>
+    <h1>Arrays in JavaScript</h1>
+    <script>
+        const favoriteCookies = [
+                "chocolate", 
+                5.50, 
+                "good",
+                ["car", "bike", "house"]
+            ];
+
+        //Adicionando elementos
+        favoriteCookies.push("the best");
+
+        //removendo elmentos
+        favoriteCookies.pop()
+
+        console.log(favoriteCookies);
+        console.log(typeof(favoriteCookies));
+
+        let fav = 2;
+        console.log(favoriteCookies[fav]);
+        console.log(favoriteCookies.length);
+        console.log(favoriteCookies[favoriteCookies.length-1]);
+    </script>
+</body>
+</html>

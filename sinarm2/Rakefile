@@ -1,0 +1,34 @@
+desc "Executar cenário 'Logar com sucesso no sistema SINARM'"
+task :test_logar_com_sucesso do
+  sh "bundle exec cucumber -t @login_sucesso"
+end
+
+desc "Executar cenários para requerimentos e manifestação"
+task :test_all_requerer_e_manifestar do
+  # Executar os cenários nesta ordem.
+  # Alguns cenários precisam de dados únicos que são gerados apenas
+  # quando um cenário anterior é finalizado.
+
+  # ******* Cenários para pessoa física ******* #
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_aquisicao_PF"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_registro_PF_sem_autorizacao"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_registro_PF_com_autorizacao"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_guia_PF"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_renovacao_registro_PF"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_porte" # Precisa pagar GRU e gerar porte manualmente em desenv
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_ocorrencia_PF"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_segunda_via_registro_PF"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_segunda_via_porte"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_transferencia_registro_PF"
+
+  # # ******* Cenários para pessoa jurídica ******* #
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_aquisicao_PJ"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_registro_PJ_com_autorizacao"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_guia_PJ"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_renovacao_registro_PJ"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_ocorrencia_PJ"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_segunda_via_registro_PJ"
+  sh "bundle exec cucumber --fail-fast --tags @requerer_e_manifestar_transferencia_registro_PJ"
+
+end
+

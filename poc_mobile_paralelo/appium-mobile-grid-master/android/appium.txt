@@ -1,0 +1,6 @@
+[caps]
+appium-version = "1.10.1"
+platformName = "ANDROID"
+
+[appium_lib]
+wait = 30

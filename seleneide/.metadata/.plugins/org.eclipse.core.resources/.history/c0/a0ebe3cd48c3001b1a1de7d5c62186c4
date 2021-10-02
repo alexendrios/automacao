@@ -1,0 +1,273 @@
+<html><head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automação com Batista</title>
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicon/apple-touch-icon-a35e91fd7d9dc99e13718f1fa391dd6cb7436a4c15bc9cf7b8c89784e872c8aa.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32-afd58fdff054863dc770f6f382f81c2f8538c0a379398525936c29d69a4333d6.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16-edeaf401832b147113e6691a64f278c44995fa61ca329a93a01695414a5b2a12.png">
+<link rel="manifest" href="/assets/favicon/site-112e6289922fc90bf5ae37c291aa5cb5253436c314a1efad4585967180c17419.webmanifest">
+<link rel="mask-icon" href="/assets/favicon/safari-pinned-tab-04ced91e1265964814e59bafb8e089761fb0e19e8c25dbb4c0cea8839ad343b9.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/favicon/favicon-12b51abed72f8e5a270f0f1772ef68b286a06a3b826d9684c5674d612e87e88a.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/favicon/browserconfig-b1f3199b02fa3dfccc0357f4f52256c99b28b5d8c99ff9a367cf24a17931f976.xml">
+<meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" media="all" href="/assets/application-3feeb59ee39f96f9c61cf0838a23628773394f181861f38329d1420ac6311109.css" data-turbolinks-track="true">
+    <script src="/assets/application-5b5cc81007c77eefd8c5a68d51c6ff303069e86ced3e3d003b02b6021fadd866.js" data-turbolinks-track="true"></script>
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="VuQ6T3xWy3gKbu2JswdzHqTiETZLIxbhUUZnFqI87oIdYgeO+SH0W5CQrWVvIcCi86qdOhosmh7TuDmZYluTKw==">
+  <script async="" src="https://static.hotjar.com/c/hotjar-927077.js?sv=6"></script><script async="" src="https://script.hotjar.com/modules.db29179a0bade389a8b8.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style></head>
+
+  <body>
+  
+  <!-- Compiled and minified JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
+
+ <div class="navbar-fixed">
+<nav class="blue darken-4" role="navigation">
+  <div class="nav-wrapper">
+  <img src="/assets/Logo-B-Seller-b4ca898efa86c88dbd2095f5d35784d95bb96c88605c81bcb7a288b1dde25eef.png" alt="Logo b seller b4ca898efa86c88dbd2095f5d35784d95bb96c88605c81bcb7a288b1dde25eef">
+    <ul class="right hide-on-med-and-down">
+      <li><a href="https://consultoriabatista.herokuapp.com/">Consultoria do Batista</a></li>
+      <li><a href="hhttps://www.udemy.com/testes-automatizados-de-api-com-httparty-rspec/">Curso de HTTParty</a></li>
+      <li><a href="https://www.udemy.com/automacao-de-testes-com-capybara-cucumber-e-ruby/">Curso de Capybara</a></li>
+      <li><a href="https://www.youtube.com/channel/UCp554v_is_ZzjzSmAQyFfAA">Batista no Youtube</a></li>
+      <li><a href="https://medium.com/automa%C3%A7%C3%A3o-com-batista">Batista no Medium</a></li>
+    </ul>
+  </div>
+</nav>
+</div>
+ 
+ <div class="container">
+ 
+     <div class="row">
+       <div class="col s12" style="margin-top: 20px;">
+         <a class="breadcrumb grey-text text-darken-4" data-method="get" href="/home/index">Home</a>
+         <a class="breadcrumb grey-text text-darken-4" data-method="get" href="/treinamento/home">Treinamento</a>
+         <a class="breadcrumb grey-text text-darken-4" data-method="get" href="/users">Lista de Usuários</a>
+       </div>
+     </div>
+ 
+     <div class="row">
+       <div class="tamanhodiv2">
+         <h5 class="center">Lista de Usuários!!</h5>
+       </div>
+     </div>
+ 
+     <div class="row">
+       <div class="center">
+         <a class="btn waves-light green" href="/users/new">Novo Usuário</a>
+         <a class="btn red" data-method="get" href="/treinamento/home">Voltar</a>
+       </div>
+     </div>
+ 
+ </div>
+
+ <div class="row">
+    <div class="center col s10 offset-s1">
+     <p id="notice"></p>
+      <table class="highlight striped responsive-table">
+        <thead>
+          <tr>
+            <th class="center">Nome</th>
+            <th class="center">Último Nome</th>
+            <th class="center">Email</th>
+            <th class="center">Universidade</th>
+            <th class="center">Sexo</th>
+            <th class="center">Profissão</th>
+            <th class="center">Idade</th>
+            <th class="center">Endereço</th>
+            <th colspan="3">Ações</th>
+          </tr>
+        </thead>
+      
+        <tbody>
+            <tr>
+              <td>Beatriz</td>
+              <td>Maia</td>
+              <td>email@email.com</td>
+              <td>UFC</td>
+              <td>Feminino</td>
+              <td>Tester de Software</td>
+              <td>27</td>
+              <td class="td_quebra">Rua Coronel Linhares</td>
+              <td><a class="material-icons" href="/users/9851">search</a></td>
+              <td><a class="material-icons" href="/users/9851/edit">edit</a></td>
+              <td><a class="material-icons" data-confirm="Vocee está certo disso?" rel="nofollow" data-method="delete" href="/users/9851">delete</a></td>
+            </tr>
+            <tr>
+              <td>Beatriz</td>
+              <td>Maia</td>
+              <td>email@email.com</td>
+              <td>UFC</td>
+              <td>Feminino</td>
+              <td>Tester de Software</td>
+              <td>27</td>
+              <td class="td_quebra">Rua Coronel Linhares</td>
+              <td><a class="material-icons" href="/users/9845">search</a></td>
+              <td><a class="material-icons" href="/users/9845/edit">edit</a></td>
+              <td><a class="material-icons" data-confirm="Vocee está certo disso?" rel="nofollow" data-method="delete" href="/users/9845">delete</a></td>
+            </tr>
+            <tr>
+              <td>Beatriz</td>
+              <td>Maia</td>
+              <td>email@email.com</td>
+              <td>UFC</td>
+              <td>Feminino</td>
+              <td>Tester de Software</td>
+              <td>27</td>
+              <td class="td_quebra">Rua Coronel Linhares</td>
+              <td><a class="material-icons" href="/users/9846">search</a></td>
+              <td><a class="material-icons" href="/users/9846/edit">edit</a></td>
+              <td><a class="material-icons" data-confirm="Vocee está certo disso?" rel="nofollow" data-method="delete" href="/users/9846">delete</a></td>
+            </tr>
+            <tr>
+              <td>Beatriz</td>
+              <td>Maia</td>
+              <td>email@email.com</td>
+              <td>UFC</td>
+              <td>Feminino</td>
+              <td>Tester de Software</td>
+              <td>27</td>
+              <td class="td_quebra">Rua Coronel Linhares</td>
+              <td><a class="material-icons" href="/users/9848">search</a></td>
+              <td><a class="material-icons" href="/users/9848/edit">edit</a></td>
+              <td><a class="material-icons" data-confirm="Vocee está certo disso?" rel="nofollow" data-method="delete" href="/users/9848">delete</a></td>
+            </tr>
+            <tr>
+              <td>Beatriz</td>
+              <td>Maia</td>
+              <td>email@email.com</td>
+              <td>UFC</td>
+              <td>Feminino</td>
+              <td>Tester de Software</td>
+              <td>27</td>
+              <td class="td_quebra">Rua Coronel Linhares</td>
+              <td><a class="material-icons" href="/users/9191">search</a></td>
+              <td><a class="material-icons" href="/users/9191/edit">edit</a></td>
+              <td><a class="material-icons" data-confirm="Vocee está certo disso?" rel="nofollow" data-method="delete" href="/users/9191">delete</a></td>
+            </tr>
+            <tr>
+              <td>Beatriz</td>
+              <td>Maia</td>
+              <td>email@email.com</td>
+              <td>UFC</td>
+              <td>Feminino</td>
+              <td>Tester de Software</td>
+              <td>27</td>
+              <td class="td_quebra">Rua Coronel Linhares</td>
+              <td><a class="material-icons" href="/users/9847">search</a></td>
+              <td><a class="material-icons" href="/users/9847/edit">edit</a></td>
+              <td><a class="material-icons" data-confirm="Vocee está certo disso?" rel="nofollow" data-method="delete" href="/users/9847">delete</a></td>
+            </tr>
+            <tr>
+              <td>Beatriz</td>
+              <td>Maia</td>
+              <td>email@email.com</td>
+              <td>UFC</td>
+              <td>Feminino</td>
+              <td>Tester de Software</td>
+              <td>27</td>
+              <td class="td_quebra">Rua Coronel Linhares</td>
+              <td><a class="material-icons" href="/users/9843">search</a></td>
+              <td><a class="material-icons" href="/users/9843/edit">edit</a></td>
+              <td><a class="material-icons" data-confirm="Vocee está certo disso?" rel="nofollow" data-method="delete" href="/users/9843">delete</a></td>
+            </tr>
+            <tr>
+              <td>bruna</td>
+              <td>silva</td>
+              <td>bruna123@gmail.com</td>
+              <td>uva</td>
+              <td>feminino</td>
+              <td>analista</td>
+              <td>33</td>
+              <td class="td_quebra">rua abc</td>
+              <td><a class="material-icons" href="/users/8353">search</a></td>
+              <td><a class="material-icons" href="/users/8353/edit">edit</a></td>
+              <td><a class="material-icons" data-confirm="Vocee está certo disso?" rel="nofollow" data-method="delete" href="/users/8353">delete</a></td>
+            </tr>
+            <tr>
+              <td>bruna</td>
+              <td>silva</td>
+              <td>brunavianna88@gmail.com</td>
+              <td>uva</td>
+              <td>feminimo</td>
+              <td>analiksta</td>
+              <td>33</td>
+              <td class="td_quebra">rua abc</td>
+              <td><a class="material-icons" href="/users/7893">search</a></td>
+              <td><a class="material-icons" href="/users/7893/edit">edit</a></td>
+              <td><a class="material-icons" data-confirm="Vocee está certo disso?" rel="nofollow" data-method="delete" href="/users/7893">delete</a></td>
+            </tr>
+            <tr>
+              <td>bruna</td>
+              <td>silva</td>
+              <td>bruna123@gmail.com</td>
+              <td>uva</td>
+              <td>feminino</td>
+              <td>analista</td>
+              <td>33</td>
+              <td class="td_quebra">rua abc</td>
+              <td><a class="material-icons" href="/users/8354">search</a></td>
+              <td><a class="material-icons" href="/users/8354/edit">edit</a></td>
+              <td><a class="material-icons" data-confirm="Vocee está certo disso?" rel="nofollow" data-method="delete" href="/users/8354">delete</a></td>
+            </tr>
+        </tbody>
+      </table>
+
+        <nav class="pagination" role="navigation" aria-label="pager">
+    
+    
+        <span class="page current">
+  1
+</span>
+
+        <span class="page">
+  <a rel="next" href="/users?page=2">2</a>
+</span>
+
+        <span class="page">
+  <a href="/users?page=3">3</a>
+</span>
+
+        <span class="page">
+  <a href="/users?page=4">4</a>
+</span>
+
+        <span class="page">
+  <a href="/users?page=5">5</a>
+</span>
+
+        <span class="page gap">…</span>
+
+      <span class="next">
+  <a rel="next" href="/users?page=2">Próximo ›</a>
+</span>
+
+      <span class="last">
+  <a href="/users?page=471">Último »</a>
+</span>
+
+  </nav>
+
+
+    </div>
+  </div>
+
+  <!-- Hotjar Tracking Code for https://automacaocombatista.herokuapp.com/ -->
+  <script>
+      (function(h,o,t,j,a,r){
+          h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+          h._hjSettings={hjid:927077,hjsv:6};
+          a=o.getElementsByTagName('head')[0];
+          r=o.createElement('script');r.async=1;
+          r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+          a.appendChild(r);
+      })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+  </script>
+  
+  
+  
+
+<div class="hiddendiv common"></div><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-21ccaa45726c0f3c8c458f7a87eb2298.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>

@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<ns2:test-suite xmlns="" xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1574435696490" stop="1574435704310">
+  <name>Demografia</name>
+  <title>Demografia</title>
+  <test-cases>
+    <test-case start="1574435696493" stop="1574435704309" status="passed">
+      <name>Buscar Demografia</name>
+      <title>Buscar Demografia</title>
+      <steps>
+        <step start="1574435699478" stop="1574435699479" status="passed">
+          <name>Dado que eu visite a wikpedia</name>
+          <title>Dado que eu visite a wikpedia</title>
+          <attachments/>
+        </step>
+        <step start="1574435699479" stop="1574435699481" status="passed">
+          <name>Quando visualiso a tabela com informa&#xE7;&#xF5;es</name>
+          <title>Quando visualiso a tabela com informa&#xE7;&#xF5;es</title>
+          <attachments/>
+        </step>
+        <step start="1574435699481" stop="1574435702009" status="passed">
+          <name>E clico no link</name>
+          <title>E clico no link</title>
+          <attachments/>
+        </step>
+        <step start="1574435702009" stop="1574435703692" status="passed">
+          <name>Ent&#xE3;o visualizo as informa&#xE7;&#xF5;es "Distrito Federal (Brasil)"</name>
+          <title>Ent&#xE3;o visualizo as informa&#xE7;&#xF5;es "Distrito Federal (Brasil)"</title>
+          <attachments/>
+        </step>
+      </steps>
+      <attachments>
+        <attachment source="eceb2a228f0bed0afa6f9af83417b1c680f99942f34313be4d98a88c3a46759f-attachment.png" title="Clique aqui para ver o print da tela" size="201990" type="image/png"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="20118060"/>
+        <label name="host" value="DESKTOP-O495AR8"/>
+        <label name="feature" value="Demografia"/>
+        <label name="story" value="Buscar Demografia"/>
+      </labels>
+      <parameters/>
+    </test-case>
+  </test-cases>
+  <labels>
+    <label name="severity" value="normal"/>
+    <label name="thread" value="20118060"/>
+    <label name="host" value="DESKTOP-O495AR8"/>
+  </labels>
+</ns2:test-suite>

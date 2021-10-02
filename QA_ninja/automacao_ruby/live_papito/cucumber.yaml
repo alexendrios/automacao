@@ -1,0 +1,19 @@
+---
+# Qunado utilizar o allure, para visualizar o relatório localmente
+# execute dentro da pasta logs: "allure serve allure_report"
+
+default: -p chrome -p ambiente
+#default: -p allure -p html_report -p chrome -p prehom
+
+ci: -p allure -p json_report -p chrome_headless # quando houver integração com jenkis
+allure: --format AllureCucumber::Formatter --out=logs/allure_report
+html_report: --format progress --format html --out=logs/features.html
+json_report: --format progress --format json --out=logs/features.json
+
+chrome: BROWSERS=chrome
+firefox: BROWSERS=firefox
+chrome_headless: BROWSERS=chrome_headless
+firefox_headless: BROWSERS=firefox_headless
+
+# Define em qual ambiente irá rodar
+ambiente: AMBIENTE=propty

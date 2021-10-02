@@ -1,0 +1,21 @@
+package test.arquitetura;
+
+import org.junit.Test;
+import static com.codeborne.selenide.WebDriverRunner.isChrome;
+import static com.codeborne.selenide.Selenide.open;
+import static com.codeborne.selenide.Selenide.$;
+import static com.codeborne.selenide.Selectors.byText;
+
+public class Exemplo {
+	
+	@Test
+	public void start() {
+		
+		isChrome();
+		open("https://automacaocombatista.herokuapp.com/");
+		System.out.println($("#index-banner").exists());
+		$(byText("Começar Automação Web")).click();
+		
+	}
+
+}

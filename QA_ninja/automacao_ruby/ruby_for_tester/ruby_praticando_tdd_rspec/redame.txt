@@ -1,0 +1,11 @@
+iniciar o projeto
+    bundle init
+    rspec --init
+
+Rodar o test 
+    rspec
+    rspec -fd 
+
+Gerar relatorio
+    rspec --format html --out report.html
+    rspec --format RspecJunitFormatter --out report.xtml

@@ -1,0 +1,173 @@
+<html><head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automação com Batista</title>
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicon/apple-touch-icon-a35e91fd7d9dc99e13718f1fa391dd6cb7436a4c15bc9cf7b8c89784e872c8aa.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32-afd58fdff054863dc770f6f382f81c2f8538c0a379398525936c29d69a4333d6.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16-edeaf401832b147113e6691a64f278c44995fa61ca329a93a01695414a5b2a12.png">
+<link rel="manifest" href="/assets/favicon/site-112e6289922fc90bf5ae37c291aa5cb5253436c314a1efad4585967180c17419.webmanifest">
+<link rel="mask-icon" href="/assets/favicon/safari-pinned-tab-04ced91e1265964814e59bafb8e089761fb0e19e8c25dbb4c0cea8839ad343b9.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/favicon/favicon-12b51abed72f8e5a270f0f1772ef68b286a06a3b826d9684c5674d612e87e88a.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/favicon/browserconfig-b1f3199b02fa3dfccc0357f4f52256c99b28b5d8c99ff9a367cf24a17931f976.xml">
+<meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" media="all" href="/assets/application-3feeb59ee39f96f9c61cf0838a23628773394f181861f38329d1420ac6311109.css" data-turbolinks-track="true">
+    <script src="/assets/application-5b5cc81007c77eefd8c5a68d51c6ff303069e86ced3e3d003b02b6021fadd866.js" data-turbolinks-track="true"></script>
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="rABG7TTUFbXzmlroqMoc0wWxw1sAT5H1IogP+oNkDn4k5ncgbUKXd0u1eBMY/Hi6a1pULFb28qg+IsotwT8wSQ==">
+  <script async="" src="https://static.hotjar.com/c/hotjar-927077.js?sv=6"></script><script async="" src="https://script.hotjar.com/modules.db29179a0bade389a8b8.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style></head>
+
+  <body>
+  
+  <!-- Compiled and minified JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
+
+<div class="navbar-fixed">
+<nav class="blue darken-4" role="navigation">
+  <div class="nav-wrapper">
+  <img src="/assets/Logo-B-Seller-b4ca898efa86c88dbd2095f5d35784d95bb96c88605c81bcb7a288b1dde25eef.png" alt="Logo b seller b4ca898efa86c88dbd2095f5d35784d95bb96c88605c81bcb7a288b1dde25eef">
+    <ul class="right hide-on-med-and-down">
+      <li><a href="https://consultoriabatista.herokuapp.com/">Consultoria do Batista</a></li>
+      <li><a href="https://www.udemy.com/testes-automatizados-de-api-com-httparty-rspec/">Curso de HTTParty</a></li>
+      <li><a href="https://www.udemy.com/automacao-de-testes-com-capybara-cucumber-e-ruby/">Curso de Capybara</a></li>
+      <li><a href="https://www.youtube.com/channel/UCp554v_is_ZzjzSmAQyFfAA">Batista no Youtube</a></li>
+      <li><a href="https://medium.com/automa%C3%A7%C3%A3o-com-batista">Batista no Medium</a></li>
+    </ul>
+  </div>
+</nav>
+</div>
+<div class="row">
+
+  <div class="col s3">
+    <h4 class="bold" style="margin-top: 50px;">Lista de Funcionalidades</h4>
+<ul class="collapsible collapsible-accordion">
+ <li class="bold"><a class="collapsible-header " tabindex="0">Formulário</a>
+   <div class="collapsible-body">
+     <ul>
+       <li><a data-method="get" href="/users/new">Criar Usuários</a></li>
+       <li><a data-method="get" href="/users">Lista de Usuários</a></li>
+     </ul>
+   </div>
+ </li>
+ <li class="bold"><a class="collapsible-header waves-teal" tabindex="0">Busca de elementos</a>
+   <div class="collapsible-body">
+     <ul>  
+       <li><a data-method="get" href="/buscaelementos/links">Links</a></li>
+       <li><a data-method="get" href="/buscaelementos/inputsetextfield">Inputs e TextField</a></li>
+       <li><a data-method="get" href="/buscaelementos/botoes">Botões</a></li>
+       <li><a data-method="get" href="/buscaelementos/radioecheckbox">Radio e Checkbox</a></li>
+       <li><a data-method="get" href="/buscaelementos/dropdowneselect">Dropdown e Select</a></li>
+       <li><a data-method="get" href="/buscaelementos/textos">Textos</a></li>
+       <li><a data-method="get" href="/buscaelementos/table">Tabela</a></li>
+     </ul>
+   </div>
+ </li>
+ <li class="bold"><a class="collapsible-header waves-teal" tabindex="0">Mudança de foco</a>
+   <div class="collapsible-body">
+     <ul>
+       <li><a data-method="get" href="/mudancadefoco/alert">Alert</a></li>
+       <li><a data-method="get" href="/mudancadefoco/iframe">Iframe</a></li>
+       <li><a data-method="get" href="/mudancadefoco/janela">Janela</a></li>
+       <li><a data-method="get" href="/mudancadefoco/modal">Modal</a></li>
+     </ul>
+   </div>
+ </li>
+ <li class="bold"><a class="collapsible-header waves-teal" tabindex="0">Widgets</a>
+   <div class="collapsible-body">
+     <ul> 
+       <li><a data-method="get" href="/widgets/accordion">Accordion</a></li>
+       <li><a data-method="get" href="/widgets/autocomplete">Autocomplete</a></li>
+       <li><a data-method="get" href="/widgets/datapicker">Datapicker</a></li>
+     </ul>
+   </div>
+ </li>
+ <li class="bold"><a class="collapsible-header waves-teal" tabindex="0">Iterações</a>
+   <div class="collapsible-body">
+     <ul>
+       <li><a data-method="get" href="/iteracoes/draganddrop">Drag And Drop</a></li>
+       <li><a data-method="get" href="/iteracoes/mousehover">Mousehover</a></li>
+     </ul>
+   </div>
+ </li>
+ <li class="bold"><a class="collapsible-header waves-teal" tabindex="0">Outros</a>
+   <div class="collapsible-body">
+     <ul>
+       <li><a data-method="get" href="/outros/uploaddearquivos">Upload de Arquivo</a></li>
+       <li><a data-method="get" href="/basicauth/home">Basic Auth(user:admin, password: admin)</a></li>
+       <li><a data-method="get" href="/outros/scroll">Scroll</a></li>
+     </ul>
+   </div>
+ </li>
+</ul>
+  </div>   
+
+  <div class="col s9">
+
+    <div class="row">
+      <div class="tamanhodivupl">
+        <h5 class="orange-text center ">Bem vindo ao Site de Automação do Batista.</h5>
+      </div>
+    </div>
+
+
+    <div class="row">
+      <div class="tamanhodiv1">
+        <h5 class="center ">Neste Site você irá testar variás funcionalidades para ficar fera em automação.</h5>
+      </div>
+    </div>
+
+    <div class="slider" style="height: 440px;">
+      <ul class="slides" style="height: 400px;">
+        <li class="" style="opacity: 0; transform: translateX(0px) translateY(0px);">
+          <img class="center" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Picker 98d8070db53f67c8428029e715bbcdb5c98add90c061e1d8b01c7c45caee209f" style="background-image: url(&quot;/assets/picker-98d8070db53f67c8428029e715bbcdb5c98add90c061e1d8b01c7c45caee209f.png&quot;);">  <!-- random image -->
+          <div class="caption left-align" style="opacity: 0; transform: translateX(-100px);">
+            <h3 class="black-text">DataPickers</h3>
+            <h5 class="black-text">Automatize  Datapickers.</h5>
+          </div>
+        </li>
+        <li class="active" style="opacity: 1;">
+          <img class="center" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Radiobox 889bb542e60ed8c2e91de861824e34cbc24c92f7f2a8af4907ed4eb0e7039d0d" style="background-image: url(&quot;/assets/radiobox-889bb542e60ed8c2e91de861824e34cbc24c92f7f2a8af4907ed4eb0e7039d0d.png&quot;);"> <!-- random image -->
+          <div class="caption right-align" style="opacity: 1; transform: translateX(0px) translateY(0px);">
+            <h3 class="black-text">Checkbox</h3>
+            <h5 class="black-text">Automatize Checkboxes.</h5>
+          </div>
+        </li>
+        <li style="opacity: 0; transform: translateX(0px) translateY(0px);">
+          <img class="center" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Select 33afb76027aad42636028d9bbca62cc9da6c5e81e62b7eb6bfd3980df09fd21c" style="background-image: url(&quot;/assets/select-33afb76027aad42636028d9bbca62cc9da6c5e81e62b7eb6bfd3980df09fd21c.png&quot;);"> <!-- random image -->
+          <div class="caption center-align" style="opacity: 0; transform: translateY(-100px);">
+            <h3 class="black-text">Selects</h3>
+            <h5 class="black-text">Automatize Selects.</h5>
+          </div>
+        </li>
+        <li style="opacity: 0; transform: translateX(0px) translateY(0px);">
+          <img class="center" src="data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Deadpool b681d28e69f69b4e0ddbb4f697b5d06422e574ee41f88a2345cb7985b7792587" style="background-image: url(&quot;/assets/deadpool-b681d28e69f69b4e0ddbb4f697b5d06422e574ee41f88a2345cb7985b7792587.png&quot;);"> <!-- random image -->
+          <div class="caption center-align" style="opacity: 0; transform: translateY(-100px);">
+            <h3>Entre outros!</h3>
+            <h5 class="light grey-text text-lighten-3">Até</h5>
+          </div>
+        </li>
+      </ul>
+    <ul class="indicators"><li class="indicator-item"></li><li class="indicator-item active"></li><li class="indicator-item"></li><li class="indicator-item"></li></ul></div>
+
+  </div>
+  
+</div>
+
+<!-- Hotjar Tracking Code for https://automacaocombatista.herokuapp.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:927077,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+  
+  
+  
+
+<div class="hiddendiv common"></div><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-21ccaa45726c0f3c8c458f7a87eb2298.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe></body></html>

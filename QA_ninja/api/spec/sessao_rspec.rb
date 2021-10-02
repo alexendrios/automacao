@@ -1,0 +1,3 @@
+requere 'httparty'
+
+describe

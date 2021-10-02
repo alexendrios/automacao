@@ -1,0 +1,10 @@
+package test.arquitetura;
+
+public class Exemplo {
+	
+	@Test
+	public void start() {
+		
+	}
+
+}

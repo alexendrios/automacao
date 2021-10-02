@@ -1,0 +1,17 @@
+package test.arquitetura;
+
+import org.junit.Test;
+import static com.codeborne.selenide.WebDriverRunner.isChrome;
+import static com.codeborne.selenide.Selenide.open;
+
+public class Exemplo {
+	
+	@Test
+	public void start() {
+		
+		isChrome();
+		open("https://aplic.inmetrics.com.br/");
+		
+	}
+
+}
